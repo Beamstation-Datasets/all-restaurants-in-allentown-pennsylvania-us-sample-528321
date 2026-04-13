@@ -1,0 +1,12 @@
+{
+  "export_job_id": "360120a3-efc6-4d0f-bcdf-21581af7835c",
+  "id_short": 528321,
+  "published_at": "2026-04-13T07:40:53Z",
+  "repo_name": "all-restaurants-in-allentown-pennsylvania-us-sample-528321",
+  "sample_asset_name": "beamstation_528321_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/528321/beamstation_528321_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_records": 69,
+  "sample_sha256": "bcf14840c1c88443c845cbb25192c76488aa43cc46075b1e55f25f64fba38a00",
+  "sample_size_bytes": 265429,
+  "total_records": 699
+}
