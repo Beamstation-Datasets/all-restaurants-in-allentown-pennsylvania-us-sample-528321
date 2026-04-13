@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Allentown, Pennsylvania with a population of over 125k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Allentown, Pennsylvania, US",
+  "export_job_id": "360120a3-efc6-4d0f-bcdf-21581af7835c",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 528321,
+  "location_name": "Allentown",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-allentown-pennsylvania-us-sample-528321",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/528321/beamstation_528321_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_pct": 9.87,
+  "sample_records": 69,
+  "sample_sha256": "bcf14840c1c88443c845cbb25192c76488aa43cc46075b1e55f25f64fba38a00",
+  "sample_size_bytes": 265429,
+  "total_records": 699,
+  "updated_at": "2026-04-09T09:12:29.737010+00:00"
+}
