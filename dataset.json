@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Allentown, Pennsylvania with a population of over 125k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Allentown, Pennsylvania, US",
-  "export_job_id": "360120a3-efc6-4d0f-bcdf-21581af7835c",
+  "export_job_id": "a86f3dc1-b500-44a0-8860-e18a7134a926",
   "github_org": "Beamstation-Datasets",
   "id_short": 528321,
   "location_name": "Allentown",
   "location_type": "city",
   "repo_name": "all-restaurants-in-allentown-pennsylvania-us-sample-528321",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/528321/beamstation_528321_restaurants-us-pa_SAMPLE_DIST.csv",
-  "sample_pct": 9.87,
+  "sample_pct": 9.99,
   "sample_records": 69,
-  "sample_sha256": "bcf14840c1c88443c845cbb25192c76488aa43cc46075b1e55f25f64fba38a00",
-  "sample_size_bytes": 265429,
-  "total_records": 699,
-  "updated_at": "2026-04-09T09:12:29.737010+00:00"
+  "sample_sha256": "757b82a8a17e4202e2a8c4681a3882ab69bdc49f5edb2b64a3ed2f7c3992de0e",
+  "sample_size_bytes": 273219,
+  "total_records": 691,
+  "updated_at": "2026-04-16T09:12:44.774410+00:00"
 }
