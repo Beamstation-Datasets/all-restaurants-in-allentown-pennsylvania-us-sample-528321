@@ -9,9 +9,9 @@
 | Dataset ID | `528321` |
 | Location | Allentown |
 | Category | Restaurants |
-| Full dataset size | 699 records |
-| Free sample size | 69 records (9.87%) |
-| Last export | 2026-04-09T09:12:29.737010+00:00 |
+| Full dataset size | 691 records |
+| Free sample size | 69 records (9.99%) |
+| Last export | 2026-04-16T09:12:44.774410+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-allentown-pennsylvania-us-sample-528321/releases/download/sample-latest/beamstation_528321_restaurants-us-pa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
